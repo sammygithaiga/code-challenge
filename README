@@ -1,0 +1,31 @@
+### CODE CHALLENGE (challenge-1)
+
+### Date-- 2024/03/22
+
+#### By Samuel Githaiga
+
+### Description
+It is a web page that shows the prompts a user should input student marks. The input should be between 0 and 100. Then output the correct grade: 
+A > 79, B - 60 to 79, C -  49 to 59, D - 40 to 49, E - less 40.
+
+## Installition 
+Use your GitHub and clone the work from local to online then push the work.
+
+## Instollation Requirements
+Git
+
+## Installition instractions
+clone the link from your git  account and push it after creating a new repository.
+
+
+## Technologies used 
+Javascript
+GitHub
+
+### How to go about it 
+>Create a function called calculateGrade and put mark as the parameter.
+>Use if to if (mark > 79) and return the string 'A'.
+>use elseif (mark >= 60 && mark <= 79) and return the string 'B'.
+>continue with the same use of elseif while returning the string of the grade.
+>Create anoher function 'Main' with no parameter
+>
